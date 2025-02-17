@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Customized Proxmox Helper Script for Technitium DNS
 # Author: CK Customized, Original by tteck
-# License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# Testing for Lab
 # Source: https://technitium.com/dns/
 
 APP="Technitium DNS"
