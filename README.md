@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Proxmox-VE_8.x-EE0000?logo=proxmox&logoColor=white"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ZFS-Storage-0077c2?logo=openzfs&logoColor=white"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WireGuard-VPN-88171a?logo=wireguard&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Btrfs-Storage-00bcd4?logo=btrfs&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cluster-Proxmox_Cluster-0f7fff"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PBS-Proxmox_Backup_Server-blueviolet"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Optimized-⚡🚀🔒-00bcd4"/>
 </p>
