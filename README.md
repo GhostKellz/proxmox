@@ -1,4 +1,13 @@
 # Proxmox Repository
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-VE_8.x-EE0000?logo=proxmox&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ZFS-Storage-0077c2?logo=openzfs&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WireGuard-VPN-88171a?logo=wireguard&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PBS-Proxmox_Backup_Server-blueviolet"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Optimized-⚡🚀🔒-00bcd4"/>
+</p>
+---
 
 ## 📁 Directory Structure
 - `helper-scripts/ct/`: Scripts for container management.
